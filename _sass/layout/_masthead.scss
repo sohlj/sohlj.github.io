@@ -88,9 +88,11 @@
 .greedy-nav .visible-links {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   width: 100%;
 }
 
 .greedy-nav .visible-links > li:first-child {
-  flex: 1; // pushes remaining <li> items to the right
+  display: table;
+  margin-left: auto; // pushes remaining <li> items to the right
 }
