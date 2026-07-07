@@ -26,9 +26,9 @@ author:
   avatar           : "me.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Li Jing believes that trusted data is the foundation of informed decision-making and meaningful business outcomes. With 10 years of experience across engineering, research, and healthcare, she has applied data to support operational improvements, resource planning, and strategic decision-making. Her research experience strengthened her discipline in data validation and methodological rigor, while her engineering background developed a structured approach to problem-solving and analytical thinking. She enjoys translating complex datasets into clear, actionable insights that support evidence-based decisions."
+  bio              : "Li Jing believes that trusted data is the foundation of informed decision-making and meaningful business outcomes. With 10 years of experience across engineering, research, and healthcare, she has applied data to support evidence-based decisions."
   location         : "Singapore"
-  employer         : "Woodlands Hospital"
+  employer         : "NHG Group"
   uri              : # URL
   email            : "sohlijing@gmail.com" 
 
