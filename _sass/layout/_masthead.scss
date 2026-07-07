@@ -66,33 +66,4 @@
   }
 }
 
-.masthead__menu-item.selected a {
-  color: var(--global-text-color);
-  font-weight: 700;
-  border-bottom: 2px solid var(--global-text-color);
-  pointer-events: none; /* Move this here */
-  cursor: default; /* Move this here too */
-}
 
-.masthead__menu-item.selected a:hover {
-  color: var(--global-text-color);
-  border-bottom: 2px solid var(--global-text-color);
-  /* No need to repeat pointer-events and cursor here */
-}
-
-// ==========================================================================
-// GREEDY NAVIGATION
-// ==========================================================================
-
-// Right-align masthead navigation buttons while keeping site title on the left.
-.greedy-nav .visible-links {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-}
-
-.greedy-nav .visible-links > li:first-child {
-  display: table;
-  margin-left: auto; // pushes remaining <li> items to the right
-}
