@@ -24,9 +24,8 @@ repository               : "https://github.com/sohlj/sohlj.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Li Jing believes that trusted data is the foundation of informed decision-making and meaningful business outcomes. With 10 years of experience across engineering, research, and healthcare, she has applied data to support evidence-based decisions."
+  name             : "Li Jing, Soh"
+  bio              : "Trusted data is the foundation of informed decision-making. Accumulated 10 years of experience across engineering, research, and healthcare, she continuously applies data to support evidence-based decisions."
   location         : "Singapore"
   employer         : "NHG Group"
   uri              : # URL
