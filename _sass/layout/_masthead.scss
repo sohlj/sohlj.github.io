@@ -79,3 +79,18 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
+
+// ==========================================================================
+// GREEDY NAVIGATION
+// ==========================================================================
+
+// Right-align masthead navigation buttons while keeping site title on the left.
+.greedy-nav .visible-links {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.greedy-nav .visible-links > li:first-child {
+  flex: 1; // pushes remaining <li> items to the right
+}
