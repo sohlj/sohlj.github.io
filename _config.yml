@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Li Jing Portfolio"
+title                    : "Li Jing's Portfolio"
 title_separator          : "-"
 name                     : &name "Li Jing"
 description              : &description "Li Jing's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "me.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Passionate about using data to improve business outcomes"
+  bio              : "Li Jing believes that trusted data is the foundation of informed decision-making and meaningful business outcomes. With 10 years of experience across engineering, research, and healthcare, she has applied data to support operational improvements, resource planning, and strategic decision-making. Her research experience strengthened her discipline in data validation and methodological rigor, while her engineering background developed a structured approach to problem-solving and analytical thinking. She enjoys translating complex datasets into clear, actionable insights that support evidence-based decisions."
   location         : "Singapore"
   employer         : "Woodlands Hospital"
   uri              : # URL
