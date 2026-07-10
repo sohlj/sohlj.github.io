@@ -3,7 +3,7 @@ title: "Technical Properties of a Sensor-Aided Key Rig for Hand Function Measure
 collection: publications
 category: conferences
 # permalink: /publication/2024-02-17-paper-title-number-5
-excerpt: 'Technical Properties of a Sensor-Aided Key Rig for Hand Function Measurement: A POC Study'
+# excerpt: 'Technical Properties of a Sensor-Aided Key Rig for Hand Function Measurement: A POC Study'
 date: 2024-02-17
 venue: 'IEEE Sensors Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/10755001'
