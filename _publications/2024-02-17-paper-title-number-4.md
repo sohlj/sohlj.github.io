@@ -3,7 +3,7 @@ title: "Establishing normative pinch and grip strengths across adult age groups 
 collection: publications
 category: conferences
 # permalink: /publication/2024-03-14-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+# excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-04-14
 venue: 'BMC Sports Sci Med Rehabil'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/40229663/'
