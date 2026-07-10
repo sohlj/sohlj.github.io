@@ -2,7 +2,7 @@
 title: "Normative Grip and Pinch Strength Values in Multi-ethnic Asian Adults: A Singapore Perspective"
 collection: publications
 category: poster
-# permalink: /publication/2024-03-14-paper-title-number-4
+# permalink: /publication/22026-05-14-paper-title-number-3
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2026-05-14
 venue: 'RehabWeek Encore Poster'
