@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
-1. Process Intelligence Solution
 
-2. Biz Intelligence Solution - Use case in Radiology Resource
+1. Process Intelligence Solution - Coming soon.
+
+2. Biz Intelligence Solution - Use case in Radiology Resource - Coming soon.
+
+3. Automated sensor data labelling solution using R [Link](https://rpubs.com/sohlijing/data_wrangling) 
 
 
 
